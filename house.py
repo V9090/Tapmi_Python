@@ -21,7 +21,7 @@ st.text('Find you dream homes here')
 # SAVE HERE and rerun in website
 df=pd.read_csv('kc_house_data.csv')
 #st.image('Hand.jpg')
-#st.video('https://www.youtube.com/watch?v=rUWxSEwctFU')
+st.video('https://www.youtube.com/watch?v=rUWxSEwctFU')
 
 #####################################
 ######### SLIDER ####################
